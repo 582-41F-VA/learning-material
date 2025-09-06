@@ -30,3 +30,13 @@
    - [Responding to Events](https://react.dev/learn/responding-to-events)
    - [Event Types](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/b580df54c0819ec9df62b0835a315dd48b8594a9/types/react/index.d.ts#L1247C1-L1373)
 
+8. State
+   - [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
+
+9. Rendering
+   - [Render and Commit](https://react.dev/learn/render-and-commit)
+   - [State as a Snapshot](https://react.dev/learn/state-as-a-snapshot)
+
+10. Serial updates
+    - [Queueing a Series of State Updates](https://react.dev/learn/queueing-a-series-of-state-updates)
+
