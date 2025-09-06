@@ -56,3 +56,6 @@
     - [Sharing State Between Components](https://react.dev/learn/sharing-state-between-components)
     - [Preserving and Resetting State](https://react.dev/learn/preserving-and-resetting-state)
 
+16. Reducers
+    - [Extracting State Logic into a Reducer](https://react.dev/learn/extracting-state-logic-into-a-reducer)
+
