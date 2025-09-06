@@ -10,3 +10,13 @@
    - [Your First Component](https://react.dev/learn/your-first-component)
    - [Importing and Exporting Components](https://react.dev/learn/importing-and-exporting-components)
 
+3. Props
+   - [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)
+   - [JavaScript in JSX with Curly Braces](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
+   - [Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component)
+   - [Using TypeScript with React](https://react.dev/learn/typescript#typescript-with-react-components)
+
+4. JSX
+   - [Conditional Rendering](https://react.dev/learn/conditional-rendering)
+   - [Rendering Lists](https://react.dev/learn/rendering-lists)
+   - [Keeping Components Pure](https://react.dev/learn/keeping-components-pure)
