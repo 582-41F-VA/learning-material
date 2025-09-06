@@ -63,3 +63,8 @@
     - [Passing Data Deeply with Context](https://react.dev/learn/passing-data-deeply-with-context)
     - [Scaling Up with Reducer and Context](https://react.dev/learn/scaling-up-with-reducer-and-context)
 
+18. Lab
+
+19. Custom hooks
+    - [Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
+
