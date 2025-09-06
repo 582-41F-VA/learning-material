@@ -46,3 +46,6 @@
 
 12. Lab
 
+13. Declarative UI
+    - [Reacting to Input with State](https://react.dev/learn/reacting-to-input-with-state)
+
