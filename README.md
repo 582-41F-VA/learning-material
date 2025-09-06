@@ -49,3 +49,10 @@
 13. Declarative UI
     - [Reacting to Input with State](https://react.dev/learn/reacting-to-input-with-state)
 
+14. State structure
+    - [Choosing the State Structure](https://react.dev/learn/choosing-the-state-structure)
+
+15. Sharing state
+    - [Sharing State Between Components](https://react.dev/learn/sharing-state-between-components)
+    - [Preserving and Resetting State](https://react.dev/learn/preserving-and-resetting-state)
+
