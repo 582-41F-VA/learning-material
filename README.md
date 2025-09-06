@@ -20,3 +20,13 @@
    - [Conditional Rendering](https://react.dev/learn/conditional-rendering)
    - [Rendering Lists](https://react.dev/learn/rendering-lists)
    - [Keeping Components Pure](https://react.dev/learn/keeping-components-pure)
+
+5. Render tree
+   - [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree)
+
+6. Lab
+
+7. Events
+   - [Responding to Events](https://react.dev/learn/responding-to-events)
+   - [Event Types](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/b580df54c0819ec9df62b0835a315dd48b8594a9/types/react/index.d.ts#L1247C1-L1373)
+
